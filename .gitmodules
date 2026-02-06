@@ -4,3 +4,6 @@
 [submodule "Docs/Analysis"]
 	path = Docs/Analysis
 	url = https://github.com/AdrianArtacho/Analyse-latex.git
+[submodule "Docs/Thesis"]
+	path = Docs/Thesis
+	url = https://git.overleaf.com/5bdb24678fcafe515c27b954
