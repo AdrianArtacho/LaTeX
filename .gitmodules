@@ -7,3 +7,6 @@
 [submodule "Docs/Thesis"]
 	path = Docs/Thesis
 	url = https://git.overleaf.com/5bdb24678fcafe515c27b954
+[submodule "tools"]
+	path = tools
+	url = https://github.com/AdrianArtacho/git_tools.git
