@@ -10,3 +10,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/AdrianArtacho/git_tools.git
+[submodule "imageannot"]
+	path = imageannot
+	url = https://github.com/AdrianArtacho/imageannot
